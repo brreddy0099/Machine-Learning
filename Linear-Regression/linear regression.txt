@@ -1,0 +1,8 @@
+y=mx+b
+y-dependent->prediction
+x-independent->on which basics prediction made.
+m-slope(How much 'y' changes for a unit change in 'x')  if i change one unit in  'x' how many 'y' changes
+b-intercept(if x=0 ,What will be 'y' value)
+
+
+

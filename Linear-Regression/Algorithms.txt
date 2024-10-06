@@ -1,0 +1,9 @@
+linear regression
+logistic regression
+decision tree
+knn 
+svm
+naivebayes
+k-means clustering
+random forest
+gradient boosting algorithm
